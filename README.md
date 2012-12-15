@@ -1,8 +1,9 @@
- curl http://getcomposer.org/installer | php
- ===========================================
+ 
+curl http://getcomposer.org/installer | php
+===========================================
 
- php composer.phar install
- =========================
+php composer.phar install
+=========================
 
- bin/behat --init
+bin/behat --init
 
