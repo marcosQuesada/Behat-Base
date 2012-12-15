@@ -6,4 +6,5 @@ php composer.phar install
 =========================
 
 bin/behat --init
+===============
 
